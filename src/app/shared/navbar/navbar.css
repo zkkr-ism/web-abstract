@@ -4,7 +4,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 24px 32px 16px 32px;
+  padding: 24px 5vw 16px 5vw;
 }
 
 .navbar-left {
