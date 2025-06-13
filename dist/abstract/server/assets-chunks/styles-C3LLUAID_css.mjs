@@ -1,0 +1,2 @@
+export default `body{margin:0;background:#e6e6f7}*{font-family:Inter,sans-serif;font-optical-sizing:auto;font-weight:400;font-style:normal}
+`;
