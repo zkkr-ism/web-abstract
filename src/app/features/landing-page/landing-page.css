@@ -45,3 +45,55 @@
     bottom: -25px;
     z-index: 100;
 }
+
+.container{
+    position: relative;
+    display: block;
+}
+
+.container-inner{
+    display: block;
+    width: 80% !important;
+    margin: 0 auto;
+}
+
+.container-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container-list-item{
+    display: flex;
+    position: relative;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.container-list-content > h3{
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+.container-list-content > p{
+    font-size: 24px;
+    font-weight: 300;
+    margin: 10px 0;
+}
+
+.container-list-content > a{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.container-list-icon{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px
+}
+
+.item-logo{
+    max-height: 80px;
+}
